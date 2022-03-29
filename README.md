@@ -1,7 +1,7 @@
 __MBODM__  
 Open Source Software Development
 
-I quickly complete GitHub´s default landing page here:
+I quickly complete GitHub´s landing page default template here:
 - 👋 Hi, I’m ... _a developer_
 - 👀 I’m interested in ... _everything dev-related_
 - 🌱 I’m currently learning ... _many things. Always!_
