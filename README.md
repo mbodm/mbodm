@@ -1,4 +1,4 @@
-__MBODM__  
+__mbodm__  
 Open Source Software Development
 
 I quickly complete GitHub´s landing page default template here:
